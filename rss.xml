@@ -4,7 +4,7 @@
         <description><![CDATA[The Summer Kitchen Food Subscription Service]]></description>
         <link>https://thegrid.ai/summerkitchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:17:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/summerkitchen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/summerkitchen/fresh-food/index.html</link>
             <guid isPermaLink="false">8dccacfe-2390-4176-8569-6a18854e7ea7</guid>
             <pubDate>Wed, 17 Aug 2016 15:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4f3129c-8063-41ff-9340-9a45bb9bda38.jpg">]]></description>
+            <link>https://thegrid.ai/summerkitchen/d21a55f4-ce2e-4a5a-9d3d-b6c1df11ce9e/index.html</link>
+            <guid isPermaLink="false">d21a55f4-ce2e-4a5a-9d3d-b6c1df11ce9e</guid>
+            <pubDate>Wed, 17 Aug 2016 15:16:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
