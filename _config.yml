@@ -1,0 +1,28 @@
+name: summerkitchen
+favicon: null
+layout_spectrum: 0.45658320537768304
+typography_spectrum: 0.2150980462320149
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.16028393362648785
+  lightness: 0.877293620724231
+  saturation: 0.561483443249017
+  rhythmicContrast: 0.6835798781830817
+purpose: []
