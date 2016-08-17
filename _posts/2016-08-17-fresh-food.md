@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Fresh food, '
-datePublished: '2016-08-17T14:51:11.443Z'
-dateModified: '2016-08-17T14:48:09.435Z'
+datePublished: '2016-08-17T15:16:46.687Z'
+dateModified: '2016-08-17T14:51:20.102Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-17-fresh-food.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-17-fresh-food.md
 url: fresh-food/index.html
 _type: Article
 
